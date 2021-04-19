@@ -1,2 +1,2 @@
-# cpu
+# minersu
 UnionWay
